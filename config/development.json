@@ -1,0 +1,11 @@
+{
+  "development": {
+    "appConfig": {
+      "port": 3000
+    },
+    "dbConfig": {
+      "mongoUrl": "mongodb://dextra:dextrapwd123@ds139576.mlab.com:39576/dextra",
+      "redisUrl": "redis://dextra:JiI9Jr4MNktuFB8nYMGwgLV8RF4tM1TZ@redis-11698.c93.us-east-1-3.ec2.cloud.redislabs.com:11698"
+    }
+  }
+}
